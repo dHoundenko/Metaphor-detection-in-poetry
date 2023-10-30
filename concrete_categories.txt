@@ -1,0 +1,15 @@
+Concrete categories
+
+Animal
+Artifact
+Body
+Food
+Location
+Object
+Person
+Plant
+Substance
+Event
+Group
+Phenomenon
+Possession (not sure about this one)
